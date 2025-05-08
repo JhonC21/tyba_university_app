@@ -18,3 +18,23 @@ Tyba Frontend Engineer test.
 - **[image_picker](https://pub.dev/packages/image_picker)** -> Pick images from the device's library or take new pictures with the camera.
 
 
+## 🏁 Getting Started&#x20;
+
+### 📥 **Installation**
+
+1. **Clone the repository**
+   ```sh
+   git clone 'project'
+   ```
+2. **Install dependencies**
+   ```sh
+   flutter pub get
+   ```
+3. **Generate necessary files**
+   ```sh
+   flutter pub run build_runner build
+   ```
+4. **Execute the project**
+   ```sh
+   flutter run
+   ```
